@@ -1,11 +1,6 @@
 
 # Datasets
 
-A collection of datasets developed in the context of research projects at
-[UNU-EGOV](https://egov.unu.edu/).
-
-The following sections describe each dataset in more detail.
-
 ## `icegov-proceedings-all-editions`
 
 This dataset contains information publicly available from the [ACM](https://www.acm.org/)
