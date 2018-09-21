@@ -1,0 +1,194 @@
+country-code,country-name,website,region,sub-region,income,income-value,population
+AFG,Afghanistan,http://president.gov.af/en,Asia,Southern Asia,Low income,570,33736494
+ALB,Albania,https://www.e-albania.al,Europe,Southern Europe,Upper middle income,4320,2923352
+DZA,Algeria,http://www.el-mouradia.dz,Africa,Northern Africa,Upper middle income,3960,39871528
+AND,Andorra,https://www.govern.ad,Europe,Southern Europe,High income,36987,78014
+AGO,Angola,http://www.governo.gov.ao,Africa,Middle Africa,Lower middle income,3330,27859305
+ATG,Antigua and Barbuda,http://www.ab.gov.ag,Americas,Caribbean,High income,14170,99923
+ARG,Argentina,https://www.argentina.gob.ar,Americas,South America,Upper middle income,13040,43417765
+ARM,Armenia,http://www.gov.am,Asia,Western Asia,Lower middle income,4000,2916950
+AUS,Australia,http://www.australia.gov.au,Oceania,Australia and New Zealand,High income,51360,23799556
+AUT,Austria,https://www.digitales.oesterreich.gv.at,Europe,Western Europe,High income,45440,8678657
+AZE,Azerbaijan,https://www.e-gov.az,Asia,Western Asia,Upper middle income,4080,9617484
+BHS,Bahamas,http://www.bahamas.gov.bs,Americas,Caribbean,High income,29170,386838
+BHR,Bahrain,https://www.bahrain.bh,Asia,Western Asia,High income,20240,1371855
+BGD,Bangladesh,http://www.bangladesh.gov.bd,Asia,Southern Asia,Lower middle income,1470,161200886
+BRB,Barbados,https://www.gov.bb,Americas,Caribbean,High income,15540,284217
+BLR,Belarus,https://portal.gov.by,Europe,Eastern Europe,Upper middle income,5280,9485772
+BEL,Belgium,https://www.belgium.be,Europe,Western Europe,High income,41790,11287940
+BLZ,Belize,http://www.belize.gov.bz,Americas,Central America,Upper middle income,4390,359288
+BEN,Benin,http://gouv.bj,Africa,Western Africa,Low income,800,10575952
+BTN,Bhutan,http://www.bhutan.gov.bt,Asia,Southern Asia,Lower middle income,2720,787386
+BOL,Bolivia,https://bolivia.gob.bo,Americas,South America,Lower middle income,3130,10724705
+BIH,Bosnia and Herzegovina,http://www.fbihvlada.gov.ba,Europe,Southern Europe,Upper middle income,4940,3535961
+BWA,Botswana,http://www.gov.bw,Africa,Southern Africa,Upper middle income,6820,2209197
+BRA,Brazil,http://www.brasil.gov.br,Americas,South America,Upper middle income,8580,205962108
+BRN,Brunei Darussalam,https://www.brunei.gov.bn,Asia,South-eastern Asia,High income,29600,417542
+BGR,Bulgaria,https://egov.bg,Europe,Eastern Europe,Upper middle income,7760,7177396
+BFA,Burkina Faso,http://www.gouvernement.gov.bf,Africa,Western Africa,Low income,610,18110624
+BDI,Burundi,http://www.burundi.gov.bi,Africa,Eastern Africa,Low income,290,10199270
+KHM,Cambodia,http://www.cdc-crdb.gov.kh,Asia,South-eastern Asia,Lower middle income,2990,15517635
+CMR,Cameroon,https://www.spm.gov.cm,Africa,Middle Africa,Lower middle income,1230,22834522
+CAN,Canada,https://www.canada.ca,Americas,North America,High income,1360,35949709
+CPV,Cabo Verde,https://www.governo.cv,Africa,Western Africa,Lower middle income,42870,532913
+CAF,Central African Republic,http://primature.govcf.org,Africa,Middle Africa,Low income,390,4546100
+TCD,Chad,http://www.gouvernement.td,Africa,Middle Africa,Low income,630,14009413
+CHL,Chile,http://www.gob.cl,Americas,South America,High income,13610,17762681
+CHN,China,http://www.gov.cn,Asia,Eastern Asia,Upper middle income,8690,1397028553
+COL,Colombia,http://estrategia.gobiernoenlinea.gov.co,Americas,South America,Upper middle income,5830,48228697
+COM,Comoros,https://gouvernement.km,Africa,Eastern Africa,Low income,760,777424
+COG,Congo,http://www.presidence.cg/accueil,Africa,Middle Africa,Lower middle income,1360,4995648
+CRI,Costa Rica,https://presidencia.go.cr,Americas,Central America,Upper middle income,11040,4807852
+CIV,Côte d'Ivoire,http://www.gouv.ci,Africa,Western Africa,Lower middle income,1540,23108472
+HRV,Croatia,https://vlada.gov.hr,Europe,Southern Europe,Upper middle income,12430,4236016
+CUB,Cuba,http://www.cubagob.cu,Americas,Caribbean,Upper middle income,7709,11461432
+CYP,Cyprus,http://www.cyprus.gov.cy,Asia,Western Asia,High income,23719,1160985
+CZE,Czech Republic,https://www.vlada.cz,Europe,Eastern Europe,High income,18160,10603762
+PRK,Democratic People's Republic of Korea,http://www.korea-dpr.com,Asia,Eastern Asia,Low income,667,25243917
+COD,Democratic Republic of the Congo,http://presidentrdc.cd,Africa,Middle Africa,Low income,450,76196619
+DNK,Denmark,https://www.regeringen.dk,Europe,Northern Europe,High income,55220,5688695
+DJI,Djibouti,http://www.presidence.dj,Africa,Eastern Africa,Lower middle income,1880,927414
+DMA,Dominica,http://www.dominica.gov.dm,Americas,Caribbean,Upper middle income,6990,73162
+DOM,Dominican Republic,http://dominicana.gob.do,Americas,Caribbean,Upper middle income,6630,10528394
+ECU,Ecuador,http://www.presidencia.gob.ec,Americas,South America,Upper middle income,5890,16144368
+EGY,Egypt,Www.egypt.gov.org,Africa,Northern Africa,Lower middle income,3010,93778172
+SLV,El Salvador,https://www.asamblea.gob.sv,Americas,Central America,Lower middle income,3560,6312478
+GNQ,Equatorial Guinea,http://www.guineaecuatorialpress.com,Africa,Middle Africa,Upper middle income,7060,1175389
+ERI,Eritrea,http://www.shabait.com,Africa,Eastern Africa,Low income,1083,4846976
+EST,Estonia,https://www.valitsus.ee,Europe,Northern Europe,High income,18190,1315321
+ETH,Ethiopia,http://www.ethiopia.gov.et,Africa,Eastern Africa,Low income,740,99873033
+FJI,Fiji,http://www.fiji.gov.fj,Oceania,Melanesia,Upper middle income,4970,892149
+FIN,Finland,https://www.suomi.fi,Europe,Northern Europe,High income,44580,5481966
+FRA,France,http://www.gouvernement.fr,Europe,Western Europe,High income,37970,64457201
+GAB,Gabon,http://www.gouvernement.ga,Africa,Middle Africa,Upper middle income,6610,1930175
+GMB,Gambia,https://statehouse.gov.gm,Africa,Western Africa,Low income,450,1977590
+GEO,Georgia (Country),http://gov.ge,Asia,Western Asia,Lower middle income,3790,3951524
+DEU,Germany,https://www.bundesregierung.de,Europe,Western Europe,High income,43490,81707789
+GHA,Ghana,http://www.ghana.gov.gh,Africa,Western Africa,Lower middle income,1490,27582821
+GRC,Greece,http://www.ermis.gov.gr,Europe,Southern Europe,High income,18090,11217800
+GRD,Grenada,http://www.gov.gd,Americas,Caribbean,Upper middle income,9650,106823
+GTM,Guatemala,http://www.presidencia.gob.gt,Americas,Central America,Lower middle income,4060,16252429
+GIN,Guinea,http://www.gouvernement.gov.gn,Africa,Western Africa,Low income,820,12091533
+GNB,Guinea-Bissau,http://www.gov.gw,Africa,Western Africa,Low income,660,1770526
+GUY,Guyana,http://gina.gov.gy,Americas,South America,Upper middle income,4460,768514
+HTI,Haiti,http://primature.gouv.ht,Americas,Caribbean,Low income,760,10711061
+HND,Honduras,http://www.presidencia.gob.hn,Americas,Central America,Lower middle income,2250,8960829
+HUN,Hungary,https://magyarorszag.hu,Europe,Eastern Europe,High income,12870,9783925
+ISL,Iceland,www.government.is,Europe,Northern Europe,High income,60830,330243
+IND,India,https://india.gov.in,Asia,Southern Asia,Lower middle income,1820,1309053980
+IDN,Indonesia,http://indonesia.go.id,Asia,South-eastern Asia,Lower middle income,3540,258162113
+IRN,Iran (Islamic Republic of),http://iran.gov.ir,Asia,Southern Asia,Upper middle income,5400,79360487
+IRQ,Iraq,http://www.cabinet.iq,Asia,Western Asia,Upper middle income,4770,36115649
+IRL,Ireland,http://www.gov.ie,Europe,Northern Europe,High income,55290,4700107
+ISR,Israel,https://www.gov.il,Asia,Western Asia,High income,37270,8064547
+ITA,Italy,http://www.governo.it,Europe,Southern Europe,High income,31020,59504212
+JAM,Jamaica,http://jis.gov.jm,Americas,Caribbean,Upper middle income,4750,2871934
+JPN,Japan,http://www.e-gov.go.jp,Asia,Eastern Asia,High income,38550,127974958
+JOR,Jordan,https://jordan.gov.jo,Asia,Western Asia,Lower middle income,3980,9159302
+KAZ,Kazakhstan,http://www.government.kz,Asia,Central Asia,Upper middle income,7890,17749648
+KEN,Kenya,http://www.mygov.go.ke,Africa,Eastern Africa,Lower middle income,1440,47236259
+KIR,Kiribati,http://www.president.gov.ki,Oceania,Micronesia,Lower middle income,2780,112407
+KWT,Kuwait,https://www.e.gov.kw,Asia,Western Asia,High income,31430,3935794
+KGZ,Kyrgyzstan,http://www.gov.kg,Asia,Central Asia,Lower middle income,1130,5865401
+LAO,Lao People's Democratic Republic,http://www.laogov.gov.la,Asia,South-eastern Asia,Lower middle income,2270,6663967
+LVA,Latvia,https://www.latvija.lv,Europe,Northern Europe,High income,14740,1992663
+LBN,Lebanon,http://www.dawlati.gov.lb,Asia,Western Asia,Upper middle income,8310,5851479
+LSO,Lesotho,http://www.gov.ls,Africa,Southern Africa,Lower middle income,1280,2174645
+LBR,Liberia,http://www.eliberia.gov.lr,Africa,Western Africa,Low income,380,4499621
+LBY,Libya,http://www.pm.gov.ly,Africa,Northern Africa,Upper middle income,6540,6234955
+LIE,Liechtenstein,http://www.regierung.li,Europe,Western Europe,High income,134660,37403
+LTU,Lithuania,https://lrv.lt,Europe,Northern Europe,High income,15200,2931926
+LUX,Luxembourg,https://www.gouvernement.lu,Europe,Western Europe,High income,70260,566741
+MDG,Madagascar,http://www.presidence.gov.mg,Africa,Eastern Africa,Low income,400,24234088
+MWI,Malawi,http://www.malawi.gov.mw,Africa,Eastern Africa,Low income,320,17573607
+MYS,Malaysia,http://www.malaysia.gov.my,Asia,South-eastern Asia,Upper middle income,9650,30723155
+MDV,Maldives,https://citizen.egov.mv,Asia,Southern Asia,Upper middle income,9570,418403
+MLI,Mali,http://www.gouv.ml,Africa,Western Africa,Low income,770,17467905
+MLT,Malta,https://www.gov.mt,Europe,Southern Europe,High income,23810,427616
+MHL,Marshall Islands,http://www.rmiembassyus.org,Oceania,Micronesia,Upper middle income,4800,52994
+MRT,Mauritania,http://primature.gov.mr,Africa,Western Africa,Lower middle income,1100,4182341
+MUS,Mauritius,http://www.govmu.org,Africa,Eastern Africa,Upper middle income,10140,1259456
+MEX,Mexico,https://www.gob.mx,Americas,Central America,Upper middle income,8610,125890949
+FSM,Micronesia (Federated States of),http://www.fsmgov.org,Oceania,Micronesia,Lower middle income,3590,104433
+MCO,Monaco,http://www.gouv.mc,Europe,Western Europe,High income,168004,38307
+MNG,Mongolia,http://www.zasag.mn,Asia,Eastern Asia,Lower middle income,3290,2976877
+MNE,Montenegro,http://www.gov.me,Europe,Southern Europe,Upper middle income,7350,628178
+MAR,Morocco,http://www.egov.ma,Africa,Northern Africa,Lower middle income,2863,34803322
+MOZ,Mozambique,http://www.portaldogoverno.gov.mz,Africa,Eastern Africa,Low income,420,28010691
+MMR,Myanmar,http://www.president-office.gov.mm,Asia,South-eastern Asia,Lower middle income,1190,52403669
+NAM,Namibia,http://www.gov.na,Africa,Southern Africa,Upper middle income,4600,2425561
+NRU,Nauru,http://www.naurugov.nr,Oceania,Micronesia,Upper middle income,10220,11260
+NPL,Nepal,https://www.nepal.gov.np,Asia,Southern Asia,Low income,790,28656282
+NLD,Netherlands,https://www.overheid.nl,Europe,Western Europe,High income,46180,16938499
+NZL,New Zealand,https://www.govt.nz,Oceania,Australia and New Zealand,High income,38970,4614532
+NIC,Nicaragua,https://www.asamblea.gob.ni,Americas,Central America,Lower middle income,2130,6082035
+NER,Niger,http://www.gouv.ne,Africa,Western Africa,Low income,360,19896965
+NGA,Nigeria,http://www.nigeria.gov.ng,Africa,Western Africa,Lower middle income,2080,181181744
+NOR,Norway,http://www.regjeringen.no,Europe,Northern Europe,High income,75990,5199836
+OMN,Oman,http://www.oman.om,Asia,Western Asia,High income,14440,4199810
+PAK,Pakistan,http://www.pakistan.gov.pk,Asia,Southern Asia,Lower middle income,1580,189380513
+PLW,Palau,http://palaugov.pw,Oceania,Micronesia,High income,12530,21288
+PAN,Panama,https://www.presidencia.gob.pa,Americas,Central America,Upper middle income,13100,3969249
+PNG,Papua New Guinea,http://www.pm.gov.pg,Oceania,Melanesia,Lower middle income,2410,7919825
+PRY,Paraguay,https://www.paraguay.gov.py,Americas,South America,Upper middle income,3920,6639119
+PER,Peru,http://www.peru.gob.pe,Americas,South America,Upper middle income,5970,31376671
+PHL,Philippines,https://www.gov.ph,Asia,South-eastern Asia,Lower middle income,3660,101716359
+POL,Poland,https://www.bip.gov.pl,Europe,Eastern Europe,High income,12710,38265226
+PRT,Portugal,http://www.portugal.gov.pt,Europe,Southern Europe,High income,19820,10418473
+QAT,Qatar,http://portal.www.gov.qa,Asia,Western Asia,High income,61070,2481539
+KOR,Republic of Korea,https://www.gov.kr,Asia,Eastern Asia,High income,28380,50593662
+MDA,Republic of Moldova,http://www.gov.md,Europe,Eastern Europe,Lower middle income,2180,4065980
+ROU,Romania,http://www.guv.ro,Europe,Eastern Europe,Upper middle income,9970,19876621
+RUS,Russian Federation,http://government.ru,Europe,Eastern Europe,Upper middle income,9231,143888004
+RWA,Rwanda,http://gov.rw,Africa,Eastern Africa,Low income,720,11629553
+KNA,Saint Kitts and Nevis,https://www.gov.kn,Americas,Caribbean,High income,16030,54288
+LCA,Saint Lucia,http://www.govt.lc,Americas,Caribbean,Upper middle income,8780,177206
+VCT,Saint Vincent and the Grenadines,http://www.gov.vc,Americas,Caribbean,Upper middle income,6990,109455
+WSM,Samoa,http://www.samoagovt.ws,Oceania,Polynesia,Upper middle income,4100,193759
+SMR,San Marino,http://www.sanmarino.sm,Europe,Southern Europe,High income,40586,32960
+STP,Sao Tome and Principe,http://www.parlamento.st,Africa,Middle Africa,Lower middle income,1770,195553
+SAU,Saudi Arabia,https://www.saudi.gov.sa,Asia,Western Asia,High income,20080,31557144
+SEN,Senegal,https://www.sec.gouv.sn,Africa,Western Africa,Low income,950,14976994
+SRB,Serbia,http://www.srbija.gov.rs,Europe,Southern Europe,Upper middle income,5180,8851280
+SYC,Seychelles,http://www.egov.sc,Africa,Eastern Africa,Upper middle income,14180,93742
+SLE,Sierra Leone,http://gov.sl,Africa,Western Africa,Low income,510,7237025
+SGP,Singapore,https://www.gov.sg,Asia,South-eastern Asia,High income,54530,5535262
+SVK,Slovakia,https://www.slovensko.sk,Europe,Eastern Europe,High income,16610,5439318
+SVN,Slovenia,http://www.vlada.si,Europe,Southern Europe,High income,22000,2074788
+SLB,Solomon Islands,http://www.parliament.gov.sb,Oceania,Melanesia,Lower middle income,1920,587482
+SOM,Somalia,https://opm.gov.so,Africa,Eastern Africa,Low income,88,13908129
+ZAF,South Africa,https://www.gov.za,Africa,Southern Africa,Upper middle income,5430,55291225
+ESP,Spain,https://administracion.gob.es,Europe,Southern Europe,High income,27180,46397664
+LKA,Sri Lanka,https://www.gov.lk/welcome.html,Asia,Southern Asia,Lower middle income,3840,20714040
+SDN,Sudan,http://esudan.gov.sd,Africa,Northern Africa,Lower middle income,2379,38647803
+SUR,Suriname,http://www.gov.sr,Americas,South America,Upper middle income,6020,553208
+SWZ,Eswatini,http://www.gov.sz,Africa,Southern Africa,Lower middle income,2960,1319011
+SWE,Sweden,http://www.regeringen.se,Europe,Northern Europe,High income,52590,9763565
+CHE,Switzerland,https://www.admin.ch,Europe,Western Europe,High income,80560,8319769
+SYR,Syrian Arab Republic,http://www.egov.sy,Asia,Western Asia,Lower middle income,1178,18734987
+TJK,Tajikistan,http://president.tj,Asia,Central Asia,Lower middle income,990,8548651
+THA,Thailand,http://www.thaigov.go.th,Asia,South-eastern Asia,Upper middle income,5960,68657600
+MKD,The former Yugoslav Republic of Macedonia,http://www.vlada.mk,Europe,Southern Europe,Upper middle income,4880,2079308
+TLS,Timor-Leste,http://timor-leste.gov.tl,Asia,South-eastern Asia,Lower middle income,1790,1240977
+TGO,Togo,http://www.togo.tg,Africa,Western Africa,Low income,610,7416802
+TON,Tonga,http://www.tongaportal.gov.to,Oceania,Polynesia,Upper middle income,4010,106364
+TTO,Trinidad and Tobago,http://www.ttconnect.gov.tt,Americas,Caribbean,High income,15350,1360092
+TUN,Tunisia,http://www.tunisie.gov.tn,Africa,Northern Africa,Lower middle income,3500,11273661
+TUR,Turkey,https://www.turkiye.gov.tr,Asia,Western Asia,Upper middle income,10930,78271472
+TKM,Turkmenistan,www.turkmenistan.gov.tm,Asia,Central Asia,Upper middle income,6650,5565284
+TUV,Tuvalu,http://www.tuvaluislands.com,Oceania,Polynesia,Upper middle income,4970,11001
+UGA,Uganda,http://www.gou.go.ug,Africa,Eastern Africa,Low income,600,40144870
+UKR,Ukraine,http://www.kmu.gov.ua,Europe,Eastern Europe,Lower middle income,2388,44657704
+ARE,United Arab Emirates,https://government.ae,Asia,Western Asia,High income,39130,9154302
+GBR,United Kingdom of Great Britain and Northern Ireland,https://www.gov.uk,Europe,Northern Europe,High income,40530,65397080
+TZA,United Republic of Tanzania,https://tanzania.go.tz,Africa,Eastern Africa,Low income,905,53879957
+USA,United States of America,https://www.usa.gov,Americas,North America,High income,58270,319929162
+URY,Uruguay,https://portal.gub.uy,Americas,South America,High income,15250,3431552
+UZB,Uzbekistan,https://my.gov.uz,Asia,Central Asia,Lower middle income,1980,30976021
+VUT,Vanuatu,https://www.gov.vu,Oceania,Melanesia,Lower middle income,2920,264603
+VEN,Venezuela,http://www.gobiernoenlinea.ve,Americas,South America,Upper middle income,8991,31155134
+VNM,Viet Nam,http://www.vietnam.gov.vn,Asia,South-eastern Asia,Lower middle income,2170,93571567
+YEM,Yemen,http://www.yemen.gov.ye,Asia,Western Asia,Lower middle income,1030,26916207
+ZMB,Zambia,http://www.parliament.gov.zm,Africa,Eastern Africa,Lower middle income,1300,16100587
+ZWE,Zimbabwe,http://www.zim.gov.zw,Africa,Eastern Africa,Low income,910,15777451
+SSD,South Sudan,http://www.goss-online.org,Africa,Eastern Africa,Low income,546,11882136
