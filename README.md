@@ -8,4 +8,5 @@ The datasets are organized by topic:
 
 * [icegov](icegov): datasets related with the
 [ICEGOV](http://www.icegov.org/about/) conference series
+* [countries](countries): dataset with information about countries
 
