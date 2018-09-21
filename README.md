@@ -6,6 +6,6 @@ A collection of datasets developed in the context of research projects at
 
 The datasets are organized by topic:
 
-* [icegov](cegov) datasets related with the
+* [icegov](icegov): datasets related with the
 [ICEGOV](http://www.icegov.org/about/) conference series
 
