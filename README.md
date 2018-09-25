@@ -9,4 +9,6 @@ The datasets are organized by topic:
 * [icegov](icegov): datasets related with the
 [ICEGOV](http://www.icegov.org/about/) conference series
 * [countries](countries): dataset with information about countries
+* [egdi](egdi): dataset with information about countries E-Government
+  Development Index (EGDI)
 
