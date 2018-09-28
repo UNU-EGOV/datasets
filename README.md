@@ -11,5 +11,5 @@ The datasets are organized by topic or source:
 * [countries](countries): dataset with information about countries
 * [egdi](egdi): dataset with information about countries E-Government
   Development Index (EGDI)
-* [world-bank](world-bank): datasets with economic indicators provided
+* [world-bank](world-bank): datasets with economic indicators provided by
   the World Bank
