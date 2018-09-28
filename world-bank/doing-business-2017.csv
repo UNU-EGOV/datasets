@@ -1,0 +1,191 @@
+country-code,country-name,ease-doing-business
+AFG,Afghanistan,183.0
+ALB,Albania,65.0
+DZA,Algeria,166.0
+AGO,Angola,175.0
+ATG,Antigua and Barbuda,107.0
+ARG,Argentina,117.0
+ARM,Armenia,47.0
+AUS,Australia,14.0
+AUT,Austria,22.0
+AZE,Azerbaijan,57.0
+BHS,"Bahamas, The",119.0
+BHR,Bahrain,66.0
+BGD,Bangladesh,177.0
+BRB,Barbados,132.0
+BLR,Belarus,38.0
+BEL,Belgium,52.0
+BLZ,Belize,121.0
+BEN,Benin,151.0
+BTN,Bhutan,75.0
+BOL,Bolivia,152.0
+BIH,Bosnia and Herzegovina,86.0
+BWA,Botswana,81.0
+BRA,Brazil,125.0
+BRN,Brunei Darussalam,56.0
+BGR,Bulgaria,50.0
+BFA,Burkina Faso,148.0
+BDI,Burundi,164.0
+KHM,Cambodia,135.0
+CMR,Cameroon,163.0
+CAN,Canada,18.0
+CPV,Cape Verde,127.0
+CAF,Central African Republic,184.0
+TCD,Chad,180.0
+CHL,Chile,55.0
+CHN,China,78.0
+COL,Colombia,59.0
+COM,Comoros,158.0
+COD,"Congo, Dem. Rep.",182.0
+COG,"Congo, Rep.",179.0
+CRI,Costa Rica,61.0
+CIV,Cote d'Ivoire,139.0
+HRV,Croatia,51.0
+CYP,Cyprus,53.0
+CZE,Czech Republic,30.0
+DNK,Denmark,3.0
+DJI,Djibouti,154.0
+DMA,Dominica,98.0
+DOM,Dominican Republic,99.0
+ECU,Ecuador,118.0
+EGY,"Egypt, Arab Rep.",128.0
+SLV,El Salvador,73.0
+GNQ,Equatorial Guinea,173.0
+ERI,Eritrea,189.0
+EST,Estonia,12.0
+ETH,Ethiopia,161.0
+FJI,Fiji,101.0
+FIN,Finland,13.0
+FRA,France,31.0
+GAB,Gabon,167.0
+GMB,"Gambia, The",146.0
+GEO,Georgia,9.0
+DEU,Germany,20.0
+GHA,Ghana,120.0
+GRC,Greece,67.0
+GRD,Grenada,142.0
+GTM,Guatemala,97.0
+GIN,Guinea,153.0
+GNB,Guinea-Bissau,176.0
+GUY,Guyana,126.0
+HTI,Haiti,181.0
+HND,Honduras,115.0
+HKG,"Hong Kong, China",5.0
+HUN,Hungary,48.0
+ISL,Iceland,23.0
+IND,India,100.0
+IDN,Indonesia,72.0
+IRN,"Iran, Islamic Rep.",124.0
+IRQ,Iraq,168.0
+IRL,Ireland,17.0
+ISR,Israel,54.0
+ITA,Italy,46.0
+JAM,Jamaica,70.0
+JPN,Japan,34.0
+JOR,Jordan,103.0
+KAZ,Kazakhstan,36.0
+KEN,Kenya,80.0
+KIR,Kiribati,157.0
+KOR,"Korea, Rep.",4.0
+XKX,Kosovo,40.0
+KWT,Kuwait,96.0
+KGZ,Kyrgyz Republic,77.0
+LAO,Lao PDR,141.0
+LVA,Latvia,19.0
+LBN,Lebanon,133.0
+LSO,Lesotho,104.0
+LBR,Liberia,172.0
+LBY,Libya,185.0
+LTU,Lithuania,16.0
+LUX,Luxembourg,63.0
+MKD,"Macedonia, FYR",11.0
+MDG,Madagascar,162.0
+MWI,Malawi,110.0
+MYS,Malaysia,24.0
+MDV,Maldives,136.0
+MLI,Mali,143.0
+MLT,Malta,84.0
+MHL,Marshall Islands,149.0
+MRT,Mauritania,150.0
+MUS,Mauritius,25.0
+MEX,Mexico,49.0
+FSM,"Micronesia, Fed. Sts.",155.0
+MDA,Moldova,44.0
+MNG,Mongolia,62.0
+MNE,Montenegro,42.0
+MAR,Morocco,69.0
+MOZ,Mozambique,138.0
+MMR,Myanmar,171.0
+NAM,Namibia,106.0
+NPL,Nepal,105.0
+NLD,Netherlands,32.0
+NZL,New Zealand,1.0
+NIC,Nicaragua,131.0
+NER,Niger,144.0
+NGA,Nigeria,145.0
+NOR,Norway,8.0
+OMN,Oman,71.0
+PAK,Pakistan,147.0
+PLW,Palau,130.0
+PAN,Panama,79.0
+PNG,Papua New Guinea,109.0
+PRY,Paraguay,108.0
+PER,Peru,58.0
+PHL,Philippines,113.0
+POL,Poland,27.0
+PRT,Portugal,29.0
+PRI,Puerto Rico,64.0
+QAT,Qatar,83.0
+ROU,Romania,45.0
+RUS,Russian Federation,35.0
+RWA,Rwanda,41.0
+WSM,Samoa,87.0
+SMR,San Marino,93.0
+STP,Sao Tome and Principe,169.0
+SAU,Saudi Arabia,92.0
+SEN,Senegal,140.0
+SRB,Serbia,43.0
+SYC,Seychelles,95.0
+SLE,Sierra Leone,160.0
+SGP,Singapore,2.0
+SVK,Slovak Republic,39.0
+SVN,Slovenia,37.0
+SLB,Solomon Islands,116.0
+SOM,Somalia,190.0
+ZAF,South Africa,82.0
+SSD,South Sudan,187.0
+ESP,Spain,28.0
+LKA,Sri Lanka,111.0
+KNA,St. Kitts and Nevis,134.0
+LCA,St. Lucia,91.0
+VCT,St. Vincent and the Grenadines,129.0
+SDN,Sudan,170.0
+SUR,Suriname,165.0
+SWZ,Swaziland,112.0
+SWE,Sweden,10.0
+CHE,Switzerland,33.0
+SYR,Syrian Arab Republic,174.0
+TWN,"Taiwan, China",15.0
+TJK,Tajikistan,123.0
+TZA,Tanzania,137.0
+THA,Thailand,26.0
+TLS,Timor-Leste,178.0
+TGO,Togo,156.0
+TON,Tonga,89.0
+TTO,Trinidad and Tobago,102.0
+TUN,Tunisia,88.0
+TUR,Turkey,60.0
+UGA,Uganda,122.0
+UKR,Ukraine,76.0
+ARE,United Arab Emirates,21.0
+GBR,United Kingdom,7.0
+USA,United States,6.0
+URY,Uruguay,94.0
+UZB,Uzbekistan,74.0
+VUT,Vanuatu,90.0
+VEN,"Venezuela, RB",188.0
+VNM,Vietnam,68.0
+PSE,West Bank and Gaza,114.0
+YEM,"Yemen, Rep.",186.0
+ZMB,Zambia,85.0
+ZWE,Zimbabwe,159.0
