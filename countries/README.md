@@ -21,6 +21,7 @@ The following features for each country are included:
 * Income
 * Income Value
 * Population
+* Developed - "developed" or "developing" according to World Bank's [classification](https://datahelpdesk.worldbank.org/knowledgebase/articles/378834-how-does-the-world-bank-classify-countries)
 
 Available formats:
 
