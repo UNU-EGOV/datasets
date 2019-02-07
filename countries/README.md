@@ -28,3 +28,7 @@ Available formats:
 * CSV: [countries-data.csv](countries-data.csv)
 * XLSX: [countries-data.xlsx](countries-data.xlsx)
 * Python [Pandas](https://pandas.pydata.org/) DataFrame: [countries-data.pkl](countries-data.pkl) (serialized using [pickle](https://docs.python.org/3.1/library/pickle.html))
+
+## `countries-data-2018_pt-pt`
+
+A subset of the `countries-data` dataset translated to European Portuguese.
